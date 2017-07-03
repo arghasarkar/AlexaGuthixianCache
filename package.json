@@ -1,0 +1,28 @@
+{
+  "name": "alexa-guthixan-cache",
+  "version": "1.0.0",
+  "description": "Alexa skill which tells when the next boosted Guthixan cache will occur in Runescape.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arghasarkar/AlexaGuthixianCache.git"
+  },
+  "keywords": [
+    "Alexa",
+    "Runescape",
+    "Guthixan",
+    "Cache"
+  ],
+  "author": "Argha Sarkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arghasarkar/AlexaGuthixianCache/issues"
+  },
+  "homepage": "https://github.com/arghasarkar/AlexaGuthixianCache#readme",
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
+}

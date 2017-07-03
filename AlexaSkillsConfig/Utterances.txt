@@ -1,0 +1,10 @@
+CacheTime when is the next cache
+CacheTime for the cache time
+CacheTime next cache
+CacheTime next cache time
+CacheTime next cache timer
+CacheTime the next guthixian cache time
+
+Alexa, Open cache timer
+Alexa, ask cache timer for  next cache
+Alexa, ask cache timer for next guthixian cache time
